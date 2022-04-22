@@ -42,3 +42,20 @@ favorite_languages = {
 'edward': 'ruby',
 'phil': 'python',
 }
+
+print(barra)
+
+##########################################################
+#Novo Dicionário
+dicio = {
+	"marvel":"vingadores",
+	"dc":"liga da justiça", 
+	"fox":"x-men",
+	"warner":"harry potter",
+}
+print(dicio)
+
+#Acessado itens do dicionário
+print(dicio["fox"])
+
+print(barra)
